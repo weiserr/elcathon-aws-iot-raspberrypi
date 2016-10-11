@@ -1,0 +1,11 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+# Binary files
+*.exe binary
+*.jar binary
+
+# Scripts
+*.sh eol=lf
+*.bat eol=crlf
+.bashrc eol=lf
