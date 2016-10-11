@@ -1,0 +1,28 @@
+{
+  "name": "elcathon-aws-iot-raspberrypi",
+  "version": "1.0.0",
+  "description": "Elcathon AWS IoT RaspberryPi sample",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/weiserr/elcathon-aws-iot-raspberrypi.git"
+  },
+  "keywords": [
+    "ELCA",
+    "hackathon",
+    "IoT",
+    "AWS",
+    "RaspberryPi",
+    "Thing",
+    "ThingShadow"
+  ],
+  "author": "Robert Weiser",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/weiserr/elcathon-aws-iot-raspberrypi/issues"
+  },
+  "homepage": "https://github.com/weiserr/elcathon-aws-iot-raspberrypi#readme"
+}
