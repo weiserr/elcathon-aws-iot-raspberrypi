@@ -24,5 +24,8 @@
   "bugs": {
     "url": "https://github.com/weiserr/elcathon-aws-iot-raspberrypi/issues"
   },
-  "homepage": "https://github.com/weiserr/elcathon-aws-iot-raspberrypi#readme"
+  "homepage": "https://github.com/weiserr/elcathon-aws-iot-raspberrypi#readme",
+  "dependencies": {
+    "aws-iot-device-sdk": "^1.0.12"
+  }
 }
